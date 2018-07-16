@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+.box{
+    width: 300px;
+    height: 150px;
+    border: 1px solid red;
+    margin: 100px;
+    overflow: visible;
+}
+#a{
+    color: darkorange;
+    overflow: visible;
+}
+#b{
+    color: darkgreen;
+    overflow: hidden;
+}
+#b{
+    color: firebrick;
+    overflow: scroll;
+}
+#d{
+    color:darkslateblue;
+    overflow: auto;
+}
